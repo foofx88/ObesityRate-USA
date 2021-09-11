@@ -1,0 +1,365 @@
+﻿State,Mode,Year,Commute mode share (percent)
+Alabama,Bicycle,2019,0.14%
+Alabama,Walked,2019,1.23%
+Alabama,"Taxi, motorcycle, or other",2019,0.98%
+Alabama,Public transportation,2019,0.42%
+Alabama,Worked at home,2019,3.39%
+Alabama,Carpool,2019,8.67%
+Alabama,Drove alone,2019,85.17%
+Alaska,Bicycle,2019,0.66%
+Alaska,Walked,2019,7.07%
+Alaska,"Taxi, motorcycle, or other",2019,5.01%
+Alaska,Public transportation,2019,0.96%
+Alaska,Worked at home,2019,4.33%
+Alaska,Carpool,2019,12.00%
+Alaska,Drove alone,2019,69.96%
+Arizona,Bicycle,2019,0.77%
+Arizona,Walked,2019,1.91%
+Arizona,"Taxi, motorcycle, or other",2019,1.78%
+Arizona,Public transportation,2019,1.68%
+Arizona,Worked at home,2019,7.58%
+Arizona,Carpool,2019,10.65%
+Arizona,Drove alone,2019,75.64%
+Arkansas,Bicycle,2019,0.15%
+Arkansas,Walked,2019,1.93%
+Arkansas,"Taxi, motorcycle, or other",2019,0.88%
+Arkansas,Public transportation,2019,0.40%
+Arkansas,Worked at home,2019,3.52%
+Arkansas,Carpool,2019,10.71%
+Arkansas,Drove alone,2019,82.41%
+California,Bicycle,2019,0.86%
+California,Walked,2019,2.56%
+California,"Taxi, motorcycle, or other",2019,1.72%
+California,Public transportation,2019,5.18%
+California,Worked at home,2019,6.34%
+California,Carpool,2019,9.83%
+California,Drove alone,2019,73.51%
+Colorado,Bicycle,2019,1.13%
+Colorado,Walked,2019,2.69%
+Colorado,"Taxi, motorcycle, or other",2019,1.09%
+Colorado,Public transportation,2019,3.19%
+Colorado,Worked at home,2019,9.12%
+Colorado,Carpool,2019,8.58%
+Colorado,Drove alone,2019,74.19%
+Connecticut,Bicycle,2019,0.35%
+Connecticut,Walked,2019,2.81%
+Connecticut,"Taxi, motorcycle, or other",2019,0.87%
+Connecticut,Public transportation,2019,4.52%
+Connecticut,Worked at home,2019,5.58%
+Connecticut,Carpool,2019,7.55%
+Connecticut,Drove alone,2019,78.33%
+Delaware,Bicycle,2019,0.23%
+Delaware,Walked,2019,2.26%
+Delaware,"Taxi, motorcycle, or other",2019,0.78%
+Delaware,Public transportation,2019,2.35%
+Delaware,Worked at home,2019,5.16%
+Delaware,Carpool,2019,8.54%
+Delaware,Drove alone,2019,80.66%
+District of Columbia,Bicycle,2019,4.02%
+District of Columbia,Walked,2019,13.43%
+District of Columbia,"Taxi, motorcycle, or other",2019,2.56%
+District of Columbia,Public transportation,2019,34.15%
+District of Columbia,Worked at home,2019,7.36%
+District of Columbia,Carpool,2019,5.52%
+District of Columbia,Drove alone,2019,32.96%
+Florida,Bicycle,2019,0.60%
+Florida,Walked,2019,1.57%
+Florida,"Taxi, motorcycle, or other",2019,1.97%
+Florida,Public transportation,2019,1.59%
+Florida,Worked at home,2019,6.98%
+Florida,Carpool,2019,9.14%
+Florida,Drove alone,2019,78.14%
+Georgia,Bicycle,2019,0.20%
+Georgia,Walked,2019,1.49%
+Georgia,"Taxi, motorcycle, or other",2019,1.76%
+Georgia,Public transportation,2019,1.98%
+Georgia,Worked at home,2019,6.94%
+Georgia,Carpool,2019,9.26%
+Georgia,Drove alone,2019,78.37%
+Hawaii,Bicycle,2019,0.58%
+Hawaii,Walked,2019,4.56%
+Hawaii,"Taxi, motorcycle, or other",2019,2.20%
+Hawaii,Public transportation,2019,5.37%
+Hawaii,Worked at home,2019,4.77%
+Hawaii,Carpool,2019,13.26%
+Hawaii,Drove alone,2019,69.27%
+Idaho,Bicycle,2019,0.76%
+Idaho,Walked,2019,2.69%
+Idaho,"Taxi, motorcycle, or other",2019,0.90%
+Idaho,Public transportation,2019,0.77%
+Idaho,Worked at home,2019,7.38%
+Idaho,Carpool,2019,9.21%
+Idaho,Drove alone,2019,78.29%
+Illinois,Bicycle,2019,0.57%
+Illinois,Walked,2019,3.02%
+Illinois,"Taxi, motorcycle, or other",2019,1.30%
+Illinois,Public transportation,2019,9.65%
+Illinois,Worked at home,2019,5.43%
+Illinois,Carpool,2019,7.61%
+Illinois,Drove alone,2019,72.42%
+Indiana,Bicycle,2019,0.41%
+Indiana,Walked,2019,2.26%
+Indiana,"Taxi, motorcycle, or other",2019,0.96%
+Indiana,Public transportation,2019,0.92%
+Indiana,Worked at home,2019,4.31%
+Indiana,Carpool,2019,9.50%
+Indiana,Drove alone,2019,81.63%
+Iowa,Bicycle,2019,0.34%
+Iowa,Walked,2019,3.18%
+Iowa,"Taxi, motorcycle, or other",2019,0.84%
+Iowa,Public transportation,2019,1.12%
+Iowa,Worked at home,2019,5.76%
+Iowa,Carpool,2019,8.57%
+Iowa,Drove alone,2019,80.20%
+Kansas,Bicycle,2019,0.27%
+Kansas,Walked,2019,2.21%
+Kansas,"Taxi, motorcycle, or other",2019,0.72%
+Kansas,Public transportation,2019,0.50%
+Kansas,Worked at home,2019,5.12%
+Kansas,Carpool,2019,8.47%
+Kansas,Drove alone,2019,82.71%
+Kentucky,Bicycle,2019,0.24%
+Kentucky,Walked,2019,2.27%
+Kentucky,"Taxi, motorcycle, or other",2019,1.21%
+Kentucky,Public transportation,2019,0.99%
+Kentucky,Worked at home,2019,4.30%
+Kentucky,Carpool,2019,9.04%
+Kentucky,Drove alone,2019,81.95%
+Louisiana,Bicycle,2019,0.37%
+Louisiana,Walked,2019,2.13%
+Louisiana,"Taxi, motorcycle, or other",2019,1.50%
+Louisiana,Public transportation,2019,1.18%
+Louisiana,Worked at home,2019,3.94%
+Louisiana,Carpool,2019,8.78%
+Louisiana,Drove alone,2019,82.12%
+Maine,Bicycle,2019,0.27%
+Maine,Walked,2019,3.81%
+Maine,"Taxi, motorcycle, or other",2019,0.99%
+Maine,Public transportation,2019,0.64%
+Maine,Worked at home,2019,6.29%
+Maine,Carpool,2019,9.53%
+Maine,Drove alone,2019,78.48%
+Maryland,Bicycle,2019,0.31%
+Maryland,Walked,2019,2.21%
+Maryland,"Taxi, motorcycle, or other",2019,1.35%
+Maryland,Public transportation,2019,8.03%
+Maryland,Worked at home,2019,5.51%
+Maryland,Carpool,2019,8.69%
+Maryland,Drove alone,2019,73.89%
+Massachusetts,Bicycle,2019,0.89%
+Massachusetts,Walked,2019,4.99%
+Massachusetts,"Taxi, motorcycle, or other",2019,1.35%
+Massachusetts,Public transportation,2019,10.42%
+Massachusetts,Worked at home,2019,5.44%
+Massachusetts,Carpool,2019,7.28%
+Massachusetts,Drove alone,2019,69.62%
+Michigan,Bicycle,2019,0.35%
+Michigan,Walked,2019,2.17%
+Michigan,"Taxi, motorcycle, or other",2019,0.92%
+Michigan,Public transportation,2019,1.40%
+Michigan,Worked at home,2019,4.51%
+Michigan,Carpool,2019,8.88%
+Michigan,Drove alone,2019,81.78%
+Minnesota,Bicycle,2019,0.68%
+Minnesota,Walked,2019,2.62%
+Minnesota,"Taxi, motorcycle, or other",2019,0.99%
+Minnesota,Public transportation,2019,3.40%
+Minnesota,Worked at home,2019,6.45%
+Minnesota,Carpool,2019,8.23%
+Minnesota,Drove alone,2019,77.62%
+Mississippi,Bicycle,2019,0.07%
+Mississippi,Walked,2019,1.09%
+Mississippi,"Taxi, motorcycle, or other",2019,1.69%
+Mississippi,Public transportation,2019,0.25%
+Mississippi,Worked at home,2019,3.11%
+Mississippi,Carpool,2019,8.94%
+Mississippi,Drove alone,2019,84.84%
+Missouri,Bicycle,2019,0.24%
+Missouri,Walked,2019,2.08%
+Missouri,"Taxi, motorcycle, or other",2019,1.01%
+Missouri,Public transportation,2019,1.15%
+Missouri,Worked at home,2019,5.06%
+Missouri,Carpool,2019,8.39%
+Missouri,Drove alone,2019,82.07%
+Montana,Bicycle,2019,1.21%
+Montana,Walked,2019,4.18%
+Montana,"Taxi, motorcycle, or other",2019,1.09%
+Montana,Public transportation,2019,0.92%
+Montana,Worked at home,2019,6.53%
+Montana,Carpool,2019,9.90%
+Montana,Drove alone,2019,76.17%
+Nebraska,Bicycle,2019,0.31%
+Nebraska,Walked,2019,2.75%
+Nebraska,"Taxi, motorcycle, or other",2019,0.73%
+Nebraska,Public transportation,2019,0.81%
+Nebraska,Worked at home,2019,4.64%
+Nebraska,Carpool,2019,8.96%
+Nebraska,Drove alone,2019,81.79%
+Nevada,Bicycle,2019,0.25%
+Nevada,Walked,2019,1.59%
+Nevada,"Taxi, motorcycle, or other",2019,2.62%
+Nevada,Public transportation,2019,3.06%
+Nevada,Worked at home,2019,4.88%
+Nevada,Carpool,2019,10.62%
+Nevada,Drove alone,2019,76.97%
+New Hampshire,Bicycle,2019,0.32%
+New Hampshire,Walked,2019,2.42%
+New Hampshire,"Taxi, motorcycle, or other",2019,0.88%
+New Hampshire,Public transportation,2019,0.87%
+New Hampshire,Worked at home,2019,7.33%
+New Hampshire,Carpool,2019,7.83%
+New Hampshire,Drove alone,2019,80.36%
+New Jersey,Bicycle,2019,0.24%
+New Jersey,Walked,2019,2.69%
+New Jersey,"Taxi, motorcycle, or other",2019,1.76%
+New Jersey,Public transportation,2019,11.55%
+New Jersey,Worked at home,2019,4.92%
+New Jersey,Carpool,2019,7.89%
+New Jersey,Drove alone,2019,70.96%
+New Mexico,Bicycle,2019,0.67%
+New Mexico,Walked,2019,2.00%
+New Mexico,"Taxi, motorcycle, or other",2019,1.12%
+New Mexico,Public transportation,2019,1.05%
+New Mexico,Worked at home,2019,5.08%
+New Mexico,Carpool,2019,9.35%
+New Mexico,Drove alone,2019,80.73%
+New York,Bicycle,2019,0.73%
+New York,Walked,2019,6.19%
+New York,"Taxi, motorcycle, or other",2019,1.53%
+New York,Public transportation,2019,27.72%
+New York,Worked at home,2019,4.80%
+New York,Carpool,2019,6.27%
+New York,Drove alone,2019,52.77%
+North Carolina,Bicycle,2019,0.16%
+North Carolina,Walked,2019,1.78%
+North Carolina,"Taxi, motorcycle, or other",2019,1.32%
+North Carolina,Public transportation,2019,1.13%
+North Carolina,Worked at home,2019,6.71%
+North Carolina,Carpool,2019,8.74%
+North Carolina,Drove alone,2019,80.17%
+North Dakota,Bicycle,2019,0.25%
+North Dakota,Walked,2019,3.16%
+North Dakota,"Taxi, motorcycle, or other",2019,1.24%
+North Dakota,Public transportation,2019,0.71%
+North Dakota,Worked at home,2019,3.60%
+North Dakota,Carpool,2019,8.49%
+North Dakota,Drove alone,2019,82.55%
+Ohio,Bicycle,2019,0.26%
+Ohio,Walked,2019,2.28%
+Ohio,"Taxi, motorcycle, or other",2019,0.98%
+Ohio,Public transportation,2019,1.50%
+Ohio,Worked at home,2019,4.59%
+Ohio,Carpool,2019,8.01%
+Ohio,Drove alone,2019,82.38%
+Oklahoma,Bicycle,2019,0.24%
+Oklahoma,Walked,2019,1.46%
+Oklahoma,"Taxi, motorcycle, or other",2019,1.33%
+Oklahoma,Public transportation,2019,0.43%
+Oklahoma,Worked at home,2019,4.42%
+Oklahoma,Carpool,2019,9.48%
+Oklahoma,Drove alone,2019,82.65%
+Oregon,Bicycle,2019,1.95%
+Oregon,Walked,2019,3.78%
+Oregon,"Taxi, motorcycle, or other",2019,1.32%
+Oregon,Public transportation,2019,4.67%
+Oregon,Worked at home,2019,7.29%
+Oregon,Carpool,2019,9.47%
+Oregon,Drove alone,2019,71.53%
+Pennsylvania,Bicycle,2019,0.45%
+Pennsylvania,Walked,2019,3.65%
+Pennsylvania,"Taxi, motorcycle, or other",2019,1.17%
+Pennsylvania,Public transportation,2019,5.72%
+Pennsylvania,Worked at home,2019,5.40%
+Pennsylvania,Carpool,2019,8.42%
+Pennsylvania,Drove alone,2019,75.20%
+Rhode Island,Bicycle,2019,0.27%
+Rhode Island,Walked,2019,3.28%
+Rhode Island,"Taxi, motorcycle, or other",2019,1.09%
+Rhode Island,Public transportation,2019,3.07%
+Rhode Island,Worked at home,2019,4.51%
+Rhode Island,Carpool,2019,8.18%
+Rhode Island,Drove alone,2019,79.60%
+South Carolina,Bicycle,2019,0.23%
+South Carolina,Walked,2019,2.05%
+South Carolina,"Taxi, motorcycle, or other",2019,1.32%
+South Carolina,Public transportation,2019,0.59%
+South Carolina,Worked at home,2019,5.12%
+South Carolina,Carpool,2019,8.64%
+South Carolina,Drove alone,2019,82.05%
+South Dakota,Bicycle,2019,0.38%
+South Dakota,Walked,2019,3.22%
+South Dakota,"Taxi, motorcycle, or other",2019,1.22%
+South Dakota,Public transportation,2019,0.35%
+South Dakota,Worked at home,2019,6.11%
+South Dakota,Carpool,2019,8.96%
+South Dakota,Drove alone,2019,79.75%
+Tennessee,Bicycle,2019,0.12%
+Tennessee,Walked,2019,1.41%
+Tennessee,"Taxi, motorcycle, or other",2019,1.31%
+Tennessee,Public transportation,2019,0.62%
+Tennessee,Worked at home,2019,5.64%
+Tennessee,Carpool,2019,8.90%
+Tennessee,Drove alone,2019,82.01%
+Texas,Bicycle,2019,0.23%
+Texas,Walked,2019,1.54%
+Texas,"Taxi, motorcycle, or other",2019,1.34%
+Texas,Public transportation,2019,1.33%
+Texas,Worked at home,2019,5.71%
+Texas,Carpool,2019,9.70%
+Texas,Drove alone,2019,80.14%
+Utah,Bicycle,2019,0.54%
+Utah,Walked,2019,2.05%
+Utah,"Taxi, motorcycle, or other",2019,1.03%
+Utah,Public transportation,2019,2.47%
+Utah,Worked at home,2019,7.43%
+Utah,Carpool,2019,10.36%
+Utah,Drove alone,2019,76.12%
+Vermont,Bicycle,2019,0.50%
+Vermont,Walked,2019,5.31%
+Vermont,"Taxi, motorcycle, or other",2019,0.77%
+Vermont,Public transportation,2019,1.64%
+Vermont,Worked at home,2019,7.04%
+Vermont,Carpool,2019,8.55%
+Vermont,Drove alone,2019,76.19%
+Virginia,Bicycle,2019,0.35%
+Virginia,Walked,2019,2.32%
+Virginia,"Taxi, motorcycle, or other",2019,1.60%
+Virginia,Public transportation,2019,4.35%
+Virginia,Worked at home,2019,5.76%
+Virginia,Carpool,2019,8.99%
+Virginia,Drove alone,2019,76.63%
+Washington,Bicycle,2019,0.87%
+Washington,Walked,2019,3.48%
+Washington,"Taxi, motorcycle, or other",2019,1.15%
+Washington,Public transportation,2019,7.11%
+Washington,Worked at home,2019,6.51%
+Washington,Carpool,2019,9.95%
+Washington,Drove alone,2019,70.92%
+West Virginia,Bicycle,2019,0.13%
+West Virginia,Walked,2019,2.90%
+West Virginia,"Taxi, motorcycle, or other",2019,1.24%
+West Virginia,Public transportation,2019,0.79%
+West Virginia,Worked at home,2019,3.92%
+West Virginia,Carpool,2019,9.04%
+West Virginia,Drove alone,2019,81.99%
+Wisconsin,Bicycle,2019,0.62%
+Wisconsin,Walked,2019,2.96%
+Wisconsin,"Taxi, motorcycle, or other",2019,0.89%
+Wisconsin,Public transportation,2019,1.69%
+Wisconsin,Worked at home,2019,5.10%
+Wisconsin,Carpool,2019,7.99%
+Wisconsin,Drove alone,2019,80.76%
+Wyoming,Bicycle,2019,1.04%
+Wyoming,Walked,2019,2.95%
+Wyoming,"Taxi, motorcycle, or other",2019,0.69%
+Wyoming,Public transportation,2019,1.16%
+Wyoming,Worked at home,2019,5.73%
+Wyoming,Carpool,2019,11.51%
+Wyoming,Drove alone,2019,76.91%
+Puerto Rico,Bicycle,2019,0.15%
+Puerto Rico,Walked,2019,2.80%
+Puerto Rico,"Taxi, motorcycle, or other",2019,1.44%
+Puerto Rico,Public transportation,2019,1.19%
+Puerto Rico,Worked at home,2019,2.43%
+Puerto Rico,Carpool,2019,7.73%
+Puerto Rico,Drove alone,2019,84.27%
