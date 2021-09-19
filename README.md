@@ -36,3 +36,5 @@ To archive this, I used Data Analysis Expressions (DAX) in New Measure under Mod
 <p>The 1st page includes a Slicer to select the State, all states are shown by default however multiple states can be selected to compare each states' values. I have placed The Top 10 states with the Obesity rates, Obesity Rate in each Age Category and the Obesity Rate of each Income Groups. To navigate to the next page, I used a button.</p>
 <img src="assets/snips/top10p2.JPG" width="90%">
 <p>As the 2nd page also have the same slicer, I Synced the slicers so if state(s) selected on the 1st page, would "carry over" to the 2nd page and vice versa. The Top 10 Obese states are all on the East Coast of USA and we can see on average there are more obese Female than Male but not by a large margin.</p>
+
+<p>The Power BI report page can be explored <a href ="https://foofx88.github.io/ObesityRate-USA/">here</a></p>
