@@ -12,19 +12,25 @@
 </ul>
 
 <p>Once <a href="https://github.com/foofx88/ObesityRate-USA/tree/main/datasets/cleaned">datasets</a> are cleaned, the datasets are then visualised using Power BI as follows</p>
-<p>Eventhough the Main Reports page is the first landing page, it as created last. Here we can navigate to the other reports with ease. A hover over guides users through on what to expect when they click on the button or the visuals. This report page was created with a combination of visuals, buttons linking to bookmarks, and shapes.</p>
+<p>Eventhough the <a href="https://foofx88.github.io/ObesityRate-USA/">Main Reports</a> page is the first landing page, it as created last. Here we can navigate to the other reports with ease. A hover over guides users through on what to expect when they click on the button or the visuals. This report page was created with a combination of visuals, buttons linking to bookmarks, and shapes.</p>
 <img src="assets/snips/main.JPG" width="90%">
 <p>I wanted to replicate the visuals used on the 1st project and identify the relationships. The first visual created was the Obesity Rate vs. No. of Fast Food Restaurants.
 One would assume that the more Fast Food Restaurants available would lead to higher Obesity Rate. </p>
 
-<p>To identify the relationship, a scatter plot was initially plotted. Then a Trend line was added under Analytics. The Correlation Coefficient(CC) was calculated using Quick Measures and its available CC calculations within Power BI. By setting "State" as Category, "Sum of Obesity" as Measure X and "Sum of Fast Food Restaurants" as Measure Y  </p>
+<p>To identify the relationship, a scatter plot was initially plotted. Then a Trend line was added under Analytics. The Correlation Coefficient(CC) was calculated using Quick Measures and its available CC calculations within Power BI. By setting "State" as Category, "Sum of Obesity" as Measure X and "Sum of Fast Food Restaurants" as Measure Y. </p>
 <img src="assets/snips/ffs.JPG" width="90%">
 <p>Oddly, a weak negative relationship can be observed from the plot as well as the calculations. What else would have caused Obesity Rates if not Fast Food Restaurants availability?</p>
 
-<p>I needed to explore further, what caused Obesity. As Power BI has a library of visualisations, I've used the <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380814?src=office&tab=Overview">Correlation Plot</a> to highlight the most correlated variables in the datasets.</p>
+<p>I needed to explore further, what caused Obesity. As Power BI has a library of visualisations, I've used the <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380814?src=office&tab=Overview">Correlation Plot</a> to highlight the most correlated variables in the datasets. I've pinned every possible measure against Obesity and the following was the result of the Correlation Plot:</p>
 <img src="assets/snips/corplot.JPG" width="90%">
+<p>Exploring the Correlation plot further suggests that "Physical Activeness" (meets cdc requirement(%)) and "Drove alone" have a higher value compared to Number of Fast Food Restaurants. Therefore, I would then look at these 2 relationships.</p>
 
+<p>Utilizing the similar method used to calculate the CC for Number of Fast Food Restaurants, I was able to replicate the 2 measurements relationship with Obesity swiftly.</p>
 <img src="assets/snips/activeness.JPG" width="90%">
+<p>On the plot where Obesity Rate vs. Physical Activeness, it has been identified that the least active a state is, the higher their obesity rate.</p>
+<p>As for the modes of transportation, the higher percentage a state population is to drive alone, the higher the obesity rates. The other factor that I have included in this was the "Worked from Home" measure. Those who drove alone did not work from home much, hence spending more commute time in the car to and from work.  </p>
 <img src="assets/snips/transport.JPG" width="90%">
+
+
 <img src="assets/snips/top10p1.JPG" width="90%">
 <img src="assets/snips/top10p2.JPG" width="90%">
