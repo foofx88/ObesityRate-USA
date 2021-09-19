@@ -30,7 +30,9 @@ One would assume that the more Fast Food Restaurants available would lead to hig
 <p>On the plot where Obesity Rate vs. Physical Activeness, it has been identified that the least active a state is, the higher their obesity rate.</p>
 <p>As for the modes of transportation, the higher percentage a state population is to drive alone, the higher the obesity rates. The other factor that I have included in this was the "Worked from Home" measure. Those who drove alone did not work from home much, hence spending more commute time in the car to and from work.  </p>
 <img src="assets/snips/transport.JPG" width="90%">
-
-
+<p>Upon having the relationships identified, I wanted to further visualised the demographics data. However, I want to only see the Top 10 Obese states.
+To archive this, I used Data Analysis Expressions (DAX) in New Measure under Modeling. I used the TOPN formula to get just the Top 10 states. As there is so much data to visualise, I split the demographics into 2 pages.</p>
 <img src="assets/snips/top10p1.JPG" width="90%">
+<p>The 1st page includes a Slicer to select the State, all states are shown by default however multiple states can be selected to compare each states' values. I have placed The Top 10 states with the Obesity rates, Obesity Rate in each Age Category and the Obesity Rate of each Income Groups. To navigate to the next page, I used a button.</p>
 <img src="assets/snips/top10p2.JPG" width="90%">
+<p>As the 2nd page also have the same slicer, I Synced the slicers so if state(s) selected on the 1st page, would "carry over" to the 2nd page and vice versa. The Top 10 Obese states are all on the East Coast of USA and we can see on average there are more obese Female than Male but not by a large margin.</p>
