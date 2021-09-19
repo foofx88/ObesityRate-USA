@@ -10,3 +10,21 @@
   <li>Add interactive elements for user to easily understand and make sense of the dataset through more visualisations</li> 
   <li>Potential in the dataset to be further explored</li>
 </ul>
+
+<p>Once <a href="https://github.com/foofx88/ObesityRate-USA/tree/main/datasets/cleaned">datasets</a> are cleaned, the datasets are then visualised using Power BI as follows</p>
+<p>Eventhough the Main Reports page is the first landing page, it as created last. Here we can navigate to the other reports with ease. A hover over guides users through on what to expect when they click on the button or the visuals. This report page was created with a combination of visuals, buttons linking to bookmarks, and shapes.</p>
+<img src="assets/snips/main.JPG" width="90%">
+<p>I wanted to replicate the visuals used on the 1st project and identify the relationships. The first visual created was the Obesity Rate vs. No. of Fast Food Restaurants.
+One would assume that the more Fast Food Restaurants available would lead to higher Obesity Rate. </p>
+
+<p>To identify the relationship, a scatter plot was initially plotted. Then a Trend line was added under Analytics. The Correlation Coefficient(CC) was calculated using Quick Measures and its available CC calculations within Power BI. By setting "State" as Category, "Sum of Obesity" as Measure X and "Sum of Fast Food Restaurants" as Measure Y  </p>
+<img src="assets/snips/ffs.JPG" width="90%">
+<p>Oddly, a weak negative relationship can be observed from the plot as well as the calculations. What else would have caused Obesity Rates if not Fast Food Restaurants availability?</p>
+
+<p>I needed to explore further, what caused Obesity. As Power BI has a library of visualisations, I've used the <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380814?src=office&tab=Overview">Correlation Plot</a> to highlight the most correlated variables in the datasets.</p>
+<img src="assets/snips/corplot.JPG" width="90%">
+
+<img src="assets/snips/activeness.JPG" width="90%">
+<img src="assets/snips/transport.JPG" width="90%">
+<img src="assets/snips/top10p1.JPG" width="90%">
+<img src="assets/snips/top10p2.JPG" width="90%">
