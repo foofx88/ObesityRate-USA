@@ -37,4 +37,4 @@ To archive this, I used Data Analysis Expressions (DAX) in New Measure under Mod
 <img src="assets/snips/top10p2.JPG" width="90%">
 <p>As the 2nd page also have the same slicer, I Synced the slicers so if state(s) selected on the 1st page, would "carry over" to the 2nd page and vice versa. The Top 10 Obese states are all on the East Coast of USA and we can see on average there are more obese Female than Male but not by a large margin.</p>
 
-<p>The Power BI report page can be explored <a href ="https://foofx88.github.io/ObesityRate-USA/">here</a></p>
+<p>Unfortunately the Power BI report cannot be publish due to disabled embed code creation</p>
