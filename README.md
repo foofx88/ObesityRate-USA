@@ -12,7 +12,7 @@
 </ul>
 
 <p>Once <a href="https://github.com/foofx88/ObesityRate-USA/tree/main/datasets/cleaned">datasets</a> are cleaned, the datasets are then visualised using Power BI as follows</p>
-<p>Eventhough the <a href="https://foofx88.github.io/ObesityRate-USA/">Main Reports</a> page is the first landing page, it as created last. Here we can navigate to the other reports with ease. A hover over guides users through on what to expect when they click on the button or the visuals. This report page was created with a combination of visuals, buttons linking to bookmarks, and shapes.</p>
+<p>Eventhough the Main Reports page is the first landing page, it as created last. Here we can navigate to the other reports with ease. A hover over guides users through on what to expect when they click on the button or the visuals. This report page was created with a combination of visuals, buttons linking to bookmarks, and shapes.</p>
 <img src="assets/snips/main.JPG" width="90%">
 <p>I wanted to replicate the visuals used on the 1st project and identify the relationships. The first visual created was the Obesity Rate vs. No. of Fast Food Restaurants.
 One would assume that the more Fast Food Restaurants available would lead to higher Obesity Rate. </p>
